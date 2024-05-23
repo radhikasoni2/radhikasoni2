@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikasoni2&label=Profile%20views&color=0e75b6&style=flat"alt="radhikasoni2" /> </p>
 
-- 🔭 I’m currently working on **my ethical hacking skills.**
+- 🔭 I’m currently working on **my Ethical Hacking skills.**
 
 - 🌱 I’m currently learning **Wordpress**
 
