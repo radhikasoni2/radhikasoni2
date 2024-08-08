@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radhika Soni</h1>
+<h1 align="center">Hi,I'm Radhika! </h1>
 <h3 align="center">A passionate Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikasoni2&label=Profile%20views&color=0e75b6&style=flat"alt="radhikasoni2" /> </p>
