@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **my Ethical Hacking skills.**
 
-- 🌱 I’m currently learning **Wordpress**
-
 - 💬 Ask me about **Python, Linux, Ethical Hacking**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gkE5CVRmzo9JUneSuH2gPWYatx-bn3zh/view?usp=sharing](https://drive.google.com/file/d/1gkE5CVRmzo9JUneSuH2gPWYatx-bn3zh/view?usp=sharing)
